@@ -1,1 +1,1 @@
-# crypto_investment
+# Crypto Investment
